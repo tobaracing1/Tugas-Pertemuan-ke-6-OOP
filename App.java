@@ -20,7 +20,7 @@ public class App {
         JadwalKuliah.setKelas(Kelas);
         JadwalKuliah.setRuangan(ruang);
         JadwalKuliah.tampilkanJadwalKuliah();
-        System.out.println();
+        System.out.println("===End===");
 
     }
 }
